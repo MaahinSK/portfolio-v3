@@ -14,7 +14,7 @@ const educationData = [
         level: "A Levels",
         degree: "Science Stream",
         institution: "Earth House Alternative School",
-        year: "2018 - 2020",
+        year: "2019 - 2021",
         description: "Completed A Levels with a focus on Mathematics, Physics, and Chemistry.",
         location: "Dhaka, Bangladesh"
     },
@@ -22,7 +22,7 @@ const educationData = [
         level: "O Levels",
         degree: "Science Stream",
         institution: "Earth House Alternative School",
-        year: "2016 - 2018",
+        year: "2018 - 2019",
         description: "Completed O Levels with distinction in core science subjects.",
         location: "Dhaka, Bangladesh"
     }

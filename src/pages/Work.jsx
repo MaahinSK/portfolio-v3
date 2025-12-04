@@ -2,35 +2,35 @@ import React from 'react';
 
 const projects = [
     {
-        title: "Zenith",
-        description: "A decentralized music application enabling artists to mint and sell their music as NFTs.",
-        tags: ["Solidity", "Python", "Ethereum"],
-        image: "https://lh3.googleusercontent.com/aida-public/AB6AXuATClY4PdlOWn5Db8QxA2LZGM3qk8Zv1x6uYxwvbqSf7wpjemEiN_RkTvgTpd4f8oWIL4_5oM9Lv0Vfc9Ap-MWq0U1Gss96VUMxo3UvO1JIQO4DfNg0YIblA1PO5tga2kBipGf6MF71IClbieJgK4FbxImyDx8SbXThuUXhKJViZ1IH6FTgKddeFenj3m6DyyENSHP77WGTr0CthCX7PaizZv5Z0XUN-4PQzctnhfWcLRFZ4cki0WtqnAM-ho4PlkcK8Oys3-q84lk",
-        liveLink: "#",
+        title: "Helping Hands",
+        description: "A full Volunteering platform where users can post events, volunteer events, manage dashboards and authenticate securely.",
+        tags: ["React", "Node.js", "MongoDB", "Tailwind CSS", "Firebase"],
+        image: "/assets/helping hands.jpg",
+        liveLink: "https://public-help-c0670.web.app/",
+        githubLink: "https://github.com/MaahinSK/Helping-Hands-V2"
+    },
+    {
+        title: "Gari Ghor",
+        description: "Premium Toy Car Collection A modern e-commerce platform for toy car enthusiasts and collectors. Browse through an extensive collection of premium toy cars.",
+        tags: ["React", "Node.js", "MongoDB", "Tailwind CSS", "Firebase"],
+        image: "/assets/gari ghor.jpg",
+        liveLink: "https://gari-ghor.web.app/",
+        githubLink: "https://github.com/MaahinSK/gari-ghor"
+    },
+    {
+        title: "Hero.io",
+        description: "The HERO.IO is a web-based application that allows users to track and manage the games installed on their device.",
+        tags: ["React", "Tailwind CSS", "Firebase"],
+        image: "/assets/hero.io.jpg",
+        liveLink: "https://game-store-zeta-sand.vercel.app/",
         githubLink: "#"
     },
     {
-        title: "PokeArena",
-        description: "A blockchain-based platform digitizing Pokémon cards as NFTs with secure trading and battling features.",
-        tags: ["Move", "Aptos", "NFTs"],
-        image: "https://lh3.googleusercontent.com/aida-public/AB6AXuB_q79f3PibXVoaJf4NJfVV49W2TjTIf6Ew0N4jx2_btRsIavelK9bJwlQ32MMAZ6ILnyp7UegG9PlIdxBVbXvklJjX1SghUp5e-eH4cvWChu5c4T9LXCfoOvMHyBNwlQFTfU48816W7Z77wdUK4ekTv5Bn0DNCipFKa61ZEQT89MeMTVwKnBa-qtONnSM2ulr0o3WvmyyzharVesmsXX3-s6lrZhxIebfbC4MTkE1r46BY1itO1_OK6SVx_N9rkEBB_QJTq1X1sZE",
-        liveLink: "#",
-        githubLink: "#"
-    },
-    {
-        title: "Lightning Time",
-        description: "A Bitcoin Lightning Network-powered time tracking web app that allows users to check in for work and automatically receive payments in Satoshis.",
-        tags: ["Bitcoin", "Lightning Network"],
-        image: "https://lh3.googleusercontent.com/aida-public/AB6AXuDLOd7JcEXcPPjg6ds6lSh854mQ7L4f-jMh9fR7kzANkL3k-qo2hOFxjHTS9hcb2w-AsqBj827AjyU3wDViDHYbJYbxGW43OciYgj5O8gitbXL4jlF0UYttjYn_Ku11cClmqqHKsf6wR_g-A3y3OZJzHAbFvtOvdARVqyGgaub9Z436gQiiO4Z3e8K63prPR4q1wVc5Bdcp4LsZXToFpek0_LxNAuEcz2C6sER0nlU1kY9D8UWwiXU_tVwRC_XfmcP00QSvQvgnIxQ",
-        liveLink: "#",
-        githubLink: "#"
-    },
-    {
-        title: "Project 4 (Placeholder)",
-        description: "A placeholder for your fourth project. You can update this with your actual project details.",
-        tags: ["React", "Node.js", "MongoDB"],
-        image: "https://via.placeholder.com/600x400?text=Project+4",
-        liveLink: "#",
+        title: "Cautious Citizens",
+        description: "Cautious Citizens is a community-driven platform designed to enhance public safety and awareness.",
+        tags: ["HTML", "CSS", "JavaScript", "Firebase", "Cloudinary"],
+        image: "../../assets/cc.jpg",
+        liveLink: "https://maahinsk.github.io/Cautious-Citizens/",
         githubLink: "#"
     }
 ];
