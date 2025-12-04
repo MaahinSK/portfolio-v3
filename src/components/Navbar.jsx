@@ -53,7 +53,7 @@ const Navbar = () => {
                 <div className="md:hidden absolute top-full left-0 w-full bg-background-dark border-b border-white/10 p-4 flex flex-col gap-4">
                     <Link to="/" className="text-gray-300 hover:text-white" onClick={() => setIsOpen(false)}>Home</Link>
                     <Link to="/about" className="text-gray-300 hover:text-white" onClick={() => setIsOpen(false)}>About</Link>
-                    <Link to="/work" className="text-gray-300 hover:text-white" onClick={() => setIsOpen(false)}>Work</Link>
+                    <Link to="../pages/Work" className="text-gray-300 hover:text-white" onClick={() => setIsOpen(false)}>Work</Link>
                 </div>
             )}
         </header>

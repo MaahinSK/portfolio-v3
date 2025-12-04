@@ -67,15 +67,15 @@ const Contact = () => {
                                 <MdEmail className="text-2xl text-purple-400" />
                                 <span>maahin810@gmail.com</span>
                             </a>
-                            <a className="flex items-center gap-4 text-gray-300 hover:text-white transition-colors" href="#">
+                            <a className="flex items-center gap-4 text-gray-300 hover:text-white transition-colors" href="https://github.com/MaahinSK">
                                 <FaGithub className="text-2xl text-purple-400" />
                                 <span>GitHub</span>
                             </a>
-                            <a className="flex items-center gap-4 text-gray-300 hover:text-white transition-colors" href="#">
+                            <a className="flex items-center gap-4 text-gray-300 hover:text-white transition-colors" href="#https://www.facebook.com/MaahinSK810">
                                 <FaFacebook className="text-2xl text-purple-400" />
                                 <span>Facebook</span>
                             </a>
-                            <a className="flex items-center gap-4 text-gray-300 hover:text-white transition-colors" href="#">
+                            <a className="flex items-center gap-4 text-gray-300 hover:text-white transition-colors" href="http://www.linkedin.com/in/maahin-sikder">
                                 <FaLinkedin className="text-2xl text-purple-400" />
                                 <span>LinkedIn</span>
                             </a>

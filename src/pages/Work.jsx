@@ -31,7 +31,7 @@ const projects = [
         tags: ["HTML", "CSS", "JavaScript", "Firebase", "Cloudinary"],
         image: "../../assets/cc.jpg",
         liveLink: "https://maahinsk.github.io/Cautious-Citizens/",
-        githubLink: "#"
+        githubLink: "https://github.com/MaahinSK/Cautious-Citizens/settings/pages"
     }
 ];
 
