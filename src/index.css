@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Sora:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.starry-bg {
+  background-image: radial-gradient(1px 1px at 20% 20%, white, transparent),
+    radial-gradient(1px 1px at 40% 60%, white, transparent),
+    radial-gradient(1px 1px at 75% 30%, white, transparent),
+    radial-gradient(1px 1px at 90% 80%, white, transparent),
+    radial-gradient(1px 1px at 10% 85%, white, transparent),
+    radial-gradient(1px 1px at 55% 15%, white, transparent),
+    radial-gradient(1px 1px at 80% 50%, white, transparent);
+  background-repeat: no-repeat;
+}
+
+body {
+  @apply bg-background-dark text-gray-200 font-sans antialiased;
+}
